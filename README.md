@@ -1,3 +1,4 @@
+![_printf-project](https://github.com/SuunyG/images/assets/106772123/c5c184df-428c-42e6-87ee-aba2cecf23b3)
 _printf()
 The printf project is a collaboration between Chimeremma Shiphrah and Sunday George, students of Software Engineering at ALX.
 
